@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/home"
+        android:iconTint="#296D98"
+        >
+
+    </item>
+
+    <item
+        android:id="@+id/discover"
+        android:title="Discover"
+        android:icon="@drawable/discover"
+        android:iconTint="#296D98"
+        >
+
+    </item>
+
+    <item
+        android:id="@+id/training"
+        android:title="Training"
+        android:icon="@drawable/training"
+        android:iconTint="#296D98"
+        >
+
+    </item>
+
+
+    <item
+        android:id="@+id/settings"
+        android:title="Settings"
+        android:icon="@drawable/setting"
+        android:iconTint="#296D98"
+        >
+
+    </item>
+
+
+
+
+
+
+
+</menu>
